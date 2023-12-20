@@ -11,4 +11,4 @@ https://www.nexusmods.com/monsterhunterworld/mods/1982
 https://www.nexusmods.com/monsterhunterworld/mods/2414 (for justin)
 https://www.nexusmods.com/monsterhunterworld/mods/5540
 https://www.nexusmods.com/monsterhunterworld/mods/5405
-https://www.nexusmods.com/monsterhunterworld/mods/372 (You can use this mod manager if you want. Just drag and .zip drop files into the program and make sure they are set to install (also set the mhw game directory))
+https://www.nexusmods.com/monsterhunterworld/mods/372 (You can use this mod manager if you want. Just drag and drop .zip files into the program and make sure they are set to install (also set the mhw game directory))
